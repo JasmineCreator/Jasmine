@@ -1,0 +1,7 @@
+name = "Jasmine"
+uuid = "4b59f824-6f6d-48c3-b547-6b4ff631605b"
+authors = ["jean "]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
